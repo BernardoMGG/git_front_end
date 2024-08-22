@@ -1,1 +1,2 @@
 Testando o GitIgnore
+Editando o Arquivo remotamente pelo github
